@@ -1,0 +1,18 @@
+LINK
+3 3 1
+.text 0 2 RP
+.data 2 3 RWP
+.bss 5 4 RW
+a1 0 2 D
+Func 2E0 0 U
+a2 DA1 3 D
+211 1 2 R4
+E A
+E B
+A A
+A B
+A C
+D A
+D B
+D C
+D D
